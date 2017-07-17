@@ -1,0 +1,9 @@
+{
+  "name": "React v1 project for Portfolio",
+  "repository": "https://github.com/YuraBaev/blueprint3d",
+  "demo": "http://yurabaev.github.io/blueprint3d/",
+  "logo_background": "https://raw.githubusercontent.com/YuraBaev/first-html/master/.portfolio/logo_background.png",
+  "description": "Lorem ipsum dolor sit amet, consectetur minima numquam perspiciatis",
+  "language": "react",
+  "technology": ["html", "sass", "react", "node", "js"]
+}
